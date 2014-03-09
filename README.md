@@ -6,9 +6,9 @@ Processing sketch that uses data made available from 2013 to visualize trips bas
 To-Do's
 -------
 
-- Add a way to loop in JSON queries dynamically, by hour. Currently it's being hard-coded in, above set-up (ew)
-- Make some aesthetic decision about trajectory. 
-- Figure out tinting / colors in Vehicle & main Draw Loop
+- Add a way to loop in JSON queries dynamically, by hour. (Currently hard-coded in, above set-up)
+- Aesthetic clean-up: colors, trajectory trail etc
+- Export frames as video animation
 
 Acknowledgements/Resources
 --------------------------
